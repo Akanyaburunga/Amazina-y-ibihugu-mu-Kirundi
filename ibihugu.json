@@ -1,0 +1,970 @@
+[
+    {
+        "ENG": "Afghanistan",
+        "Rundi": "Afuganisitani"
+    },
+    {
+        "ENG": "Albania",
+        "Rundi": "Alubaniya"
+    },
+    {
+        "ENG": "Antarctica",
+        "Rundi": "Antaragatika"
+    },
+    {
+        "ENG": "Algeria",
+        "Rundi": "Alijeriya"
+    },
+    {
+        "ENG": "American Samoa",
+        "Rundi": "Samowa"
+    },
+    {
+        "ENG": "Andorra",
+        "Rundi": "Andora"
+    },
+    {
+        "ENG": "Angola",
+        "Rundi": "Angola"
+    },
+    {
+        "ENG": "Antigua and Barbuda",
+        "Rundi": "Antigwa na Barabuda"
+    },
+    {
+        "ENG": "Azerbaijan",
+        "Rundi": "Azirabaja"
+    },
+    {
+        "ENG": "Argentina",
+        "Rundi": "Arijantina"
+    },
+    {
+        "ENG": "Australia",
+        "Rundi": "Ositaraliya"
+    },
+    {
+        "ENG": "Austria",
+        "Rundi": "Ositiriya"
+    },
+    {
+        "ENG": "Bahamas",
+        "Rundi": "Ubuhamasi"
+    },
+    {
+        "ENG": "Bahrain",
+        "Rundi": "Bahireyini"
+    },
+    {
+        "ENG": "Bangladesh",
+        "Rundi": "Ubangaladeshi"
+    },
+    {
+        "ENG": "Armenia",
+        "Rundi": "Arumeniya"
+    },
+    {
+        "ENG": "Barbados",
+        "Rundi": "Barabadosi"
+    },
+    {
+        "ENG": "Belgium",
+        "Rundi": "Ububiligi"
+    },
+    {
+        "ENG": "Bermuda",
+        "Rundi": "Berumuda"
+    },
+    {
+        "ENG": "Bhutan",
+        "Rundi": "Ubutani"
+    },
+    {
+        "ENG": "Bolivia",
+        "Rundi": "Ubuloviya"
+    },
+    {
+        "ENG": "Bosnia and Herzegovina",
+        "Rundi": "Ubusiniya n'Iherezagovine"
+    },
+    {
+        "ENG": "Botswana",
+        "Rundi": "Ubutswana"
+    },
+    {
+        "ENG": "Bouvet Island",
+        "Rundi": "Izinga Buveti"
+    },
+    {
+        "ENG": "Brazil",
+        "Rundi": "Berezile"
+    },
+    {
+        "ENG": "Belize",
+        "Rundi": "Belize"
+    },
+    {
+        "ENG": "British Indian Ocean Territory",
+        "Rundi": "Icumbu ry'bongereza"
+    },
+    {
+        "ENG": "Solomon Islands",
+        "Rundi": "Amazinga ya Salomo"
+    },
+    {
+        "ENG": "British Virgin Islands",
+        "Rundi": "Amazinga nyabusugi"
+    },
+    {
+        "ENG": "Brunei Darussalam",
+        "Rundi": "Uburuna darusa"
+    },
+    {
+        "ENG": "Bulgaria",
+        "Rundi": "Uburugaliya"
+    },
+    {
+        "ENG": "Myanmar",
+        "Rundi": "Myamari"
+    },
+    {
+        "ENG": "Burundi",
+        "Rundi": "Uburundi"
+    },
+    {
+        "ENG": "Belarus",
+        "Rundi": "Uburarusi"
+    },
+    {
+        "ENG": "Cambodia",
+        "Rundi": "Kamboja"
+    },
+    {
+        "ENG": "Cameroon",
+        "Rundi": "Kameruni"
+    },
+    {
+        "ENG": "Canada",
+        "Rundi": "Kanada"
+    },
+    {
+        "ENG": "Cape Verde",
+        "Rundi": "Iburemba"
+    },
+    {
+        "ENG": "Cayman Islands",
+        "Rundi": "Amazinga ya Kayima"
+    },
+    {
+        "ENG": "Central African",
+        "Rundi": "Afurika yo hagati"
+    },
+    {
+        "ENG": "Sri Lanka",
+        "Rundi": "Sirilanka"
+    },
+    {
+        "ENG": "Chad",
+        "Rundi": "cadi"
+    },
+    {
+        "ENG": "Chile",
+        "Rundi": "Shili"
+    },
+    {
+        "ENG": "China",
+        "Rundi": "Ubushinwa"
+    },
+    {
+        "ENG": "Taiwan",
+        "Rundi": "Tayiwani"
+    },
+    {
+        "ENG": "Christmas Island",
+        "Rundi": "Izinga ry'inweli"
+    },
+    {
+        "ENG": "Cocos (Keeling) Islands",
+        "Rundi": "Amazinga nyaminazi"
+    },
+    {
+        "ENG": "Colombia",
+        "Rundi": "Kolombiya"
+    },
+    {
+        "ENG": "Comoros",
+        "Rundi": "Komore"
+    },
+    {
+        "ENG": "Mayotte",
+        "Rundi": "Mayote"
+    },
+    {
+        "ENG": "Republic of the Congo",
+        "Rundi": "Kongo"
+    },
+    {
+        "ENG": "The Democratic Republic Of The Congo",
+        "Rundi": "Kongo y'intwaro rusangi"
+    },
+    {
+        "ENG": "Cook Islands",
+        "Rundi": "Amazinga bukevyi"
+    },
+    {
+        "ENG": "Costa Rica",
+        "Rundi": "Cositarika"
+    },
+    {
+        "ENG": "Croatia",
+        "Rundi": "Korowasiya"
+    },
+    {
+        "ENG": "Cuba",
+        "Rundi": "Kiba"
+    },
+    {
+        "ENG": "Cyprus",
+        "Rundi": "Sayipurusi"
+    },
+    {
+        "ENG": "Czech Republic",
+        "Rundi": "Ceke"
+    },
+    {
+        "ENG": "Benin",
+        "Rundi": "Bene"
+    },
+    {
+        "ENG": "Denmark",
+        "Rundi": "Danemarike"
+    },
+    {
+        "ENG": "Dominica",
+        "Rundi": "Dominiko"
+    },
+    {
+        "ENG": "Dominican Republic",
+        "Rundi": "Ubudominiko"
+    },
+    {
+        "ENG": "Ecuador",
+        "Rundi": "Ubukwatura"
+    },
+    {
+        "ENG": "El Salvador",
+        "Rundi": "Ubusaruva"
+    },
+    {
+        "ENG": "Equatorial Guinea",
+        "Rundi": "Gine kwarura"
+    },
+    {
+        "ENG": "Ethiopia",
+        "Rundi": "Etiyopiya"
+    },
+    {
+        "ENG": "Eritrea",
+        "Rundi": "Eritreya"
+    },
+    {
+        "ENG": "Estonia",
+        "Rundi": "Esitoniya"
+    },
+    {
+        "ENG": "Faroe Islands",
+        "Rundi": "Amazinga ya Faro"
+    },
+    {
+        "ENG": "Falkland Islands",
+        "Rundi": "Amazinga ya Fakirandi"
+    },
+    {
+        "ENG": "South Georgia and the South Sandwich Islands",
+        "Rundi": "Jorujiya y'Ubumanuko canke amazinga y'imikate"
+    },
+    {
+        "ENG": "Fiji",
+        "Rundi": "Fijiya"
+    },
+    {
+        "ENG": "Finland",
+        "Rundi": "Finilande"
+    },
+    {
+        "ENG": "Ã…land Islands",
+        "Rundi": "Amazinga ya Alandi"
+    },
+    {
+        "ENG": "France",
+        "Rundi": "Ubufaransa"
+    },
+    {
+        "ENG": "French Guiana",
+        "Rundi": "Gwiyane mfaransa"
+    },
+    {
+        "ENG": "French Polynesia",
+        "Rundi": "Polineziya"
+    },
+    {
+        "ENG": "French Southern Territories",
+        "Rundi": "Ubutaka bw'amajepfo bukukira ubufaransa"
+    },
+    {
+        "ENG": "Djibouti",
+        "Rundi": "Jibuti"
+    },
+    {
+        "ENG": "Gabon",
+        "Rundi": "Gabo"
+    },
+    {
+        "ENG": "Georgia",
+        "Rundi": "Gorujiya"
+    },
+    {
+        "ENG": "Gambia",
+        "Rundi": "Gambiya"
+    },
+    {
+        "ENG": "Occupied Palestinian Territory",
+        "Rundi": "Palestina"
+    },
+    {
+        "ENG": "Germany",
+        "Rundi": "Ubudagi"
+    },
+    {
+        "ENG": "Ghana",
+        "Rundi": "Gana"
+    },
+    {
+        "ENG": "Gibraltar",
+        "Rundi": "Jibraritari"
+    },
+    {
+        "ENG": "Kiribati",
+        "Rundi": "Kiribati"
+    },
+    {
+        "ENG": "Greece",
+        "Rundi": "Ubugereki"
+    },
+    {
+        "ENG": "Greenland",
+        "Rundi": "Grinilande"
+    },
+    {
+        "ENG": "Grenada",
+        "Rundi": "Ubugerenada"
+    },
+    {
+        "ENG": "Guadeloupe",
+        "Rundi": "Gwedelupe"
+    },
+    {
+        "ENG": "Guam",
+        "Rundi": "Guwamu"
+    },
+    {
+        "ENG": "Guatemala",
+        "Rundi": "Gwatemara"
+    },
+    {
+        "ENG": "Guinea",
+        "Rundi": "Gineya"
+    },
+    {
+        "ENG": "Guyana",
+        "Rundi": "Gwiyane"
+    },
+    {
+        "ENG": "Haiti",
+        "Rundi": "Hayiti"
+    },
+    {
+        "ENG": "Heard Island and McDonald Islands",
+        "Rundi": "Amazinga ya McDonald"
+    },
+    {
+        "ENG": "Vatican City State",
+        "Rundi": "Vatikano"
+    },
+    {
+        "ENG": "Honduras",
+        "Rundi": "Hondurasi"
+    },
+    {
+        "ENG": "Hong Kong",
+        "Rundi": "Hongokongo"
+    },
+    {
+        "ENG": "Hungary",
+        "Rundi": "Ubuhunganirya"
+    },
+    {
+        "ENG": "Iceland",
+        "Rundi": "Bumbarafu"
+    },
+    {
+        "ENG": "India",
+        "Rundi": "Ubuhinde"
+    },
+    {
+        "ENG": "Indonesia",
+        "Rundi": "Indoneziya"
+    },
+    {
+        "ENG": "Islamic Republic of Iran",
+        "Rundi": "Irani"
+    },
+    {
+        "ENG": "Iraq",
+        "Rundi": "Irake"
+    },
+    {
+        "ENG": "Ireland",
+        "Rundi": "Hirirande"
+    },
+    {
+        "ENG": "Israel",
+        "Rundi": "Isarayeli"
+    },
+    {
+        "ENG": "Italy",
+        "Rundi": "Ubutaliyano"
+    },
+    {
+        "ENG": "CÃ´te d'Ivoire",
+        "Rundi": "Ubwenyanzovu"
+    },
+    {
+        "ENG": "Jamaica",
+        "Rundi": "Jamayika"
+    },
+    {
+        "ENG": "Japan",
+        "Rundi": "Ubuyapani"
+    },
+    {
+        "ENG": "Kazakhstan",
+        "Rundi": "Kazakistani"
+    },
+    {
+        "ENG": "Jordan",
+        "Rundi": "Yorodaniya"
+    },
+    {
+        "ENG": "Kenya",
+        "Rundi": "Kenya"
+    },
+    {
+        "ENG": "Democratic People's Republic of Korea",
+        "Rundi": "Koreya y'epfo"
+    },
+    {
+        "ENG": "Republic of Korea",
+        "Rundi": "Koreya ya ruguru"
+    },
+    {
+        "ENG": "Kuwait",
+        "Rundi": "Koweti"
+    },
+    {
+        "ENG": "Kyrgyzstan",
+        "Rundi": "Kirigisitani"
+    },
+    {
+        "ENG": "Lao People's Democratic Republic",
+        "Rundi": "Ubulawo"
+    },
+    {
+        "ENG": "Lebanon",
+        "Rundi": "Libani"
+    },
+    {
+        "ENG": "Lesotho",
+        "Rundi": "Lezoto"
+    },
+    {
+        "ENG": "Latvia",
+        "Rundi": "Letoniya"
+    },
+    {
+        "ENG": "Liberia",
+        "Rundi": "Liberiya"
+    },
+    {
+        "ENG": "Libyan Arab Jamahiriya",
+        "Rundi": "Libiya"
+    },
+    {
+        "ENG": "Liechtenstein",
+        "Rundi": "Steniya"
+    },
+    {
+        "ENG": "Lithuania",
+        "Rundi": "Litwaniya"
+    },
+    {
+        "ENG": "Luxembourg",
+        "Rundi": "Rigizamburu"
+    },
+    {
+        "ENG": "Macao",
+        "Rundi": "Makawo"
+    },
+    {
+        "ENG": "Madagascar",
+        "Rundi": "Madagasikari"
+    },
+    {
+        "ENG": "Malawi",
+        "Rundi": "Malawi"
+    },
+    {
+        "ENG": "Malaysia",
+        "Rundi": "Maleziya"
+    },
+    {
+        "ENG": "Maldives",
+        "Rundi": "Maladive"
+    },
+    {
+        "ENG": "Mali",
+        "Rundi": "Mali"
+    },
+    {
+        "ENG": "Malta",
+        "Rundi": "Marita"
+    },
+    {
+        "ENG": "Martinique",
+        "Rundi": "Maritinika"
+    },
+    {
+        "ENG": "Mauritania",
+        "Rundi": "Moritaniya"
+    },
+    {
+        "ENG": "Mauritius",
+        "Rundi": "Murisiyo"
+    },
+    {
+        "ENG": "Mexico",
+        "Rundi": "Megiziko"
+    },
+    {
+        "ENG": "Monaco",
+        "Rundi": "Manako"
+    },
+    {
+        "ENG": "Mongolia",
+        "Rundi": "Mangoliya"
+    },
+    {
+        "ENG": "Republic of Moldova",
+        "Rundi": "Molodova"
+    },
+    {
+        "ENG": "Montserrat",
+        "Rundi": "Monsera"
+    },
+    {
+        "ENG": "Morocco",
+        "Rundi": "Maroke"
+    },
+    {
+        "ENG": "Mozambique",
+        "Rundi": "Muzambike"
+    },
+    {
+        "ENG": "Oman",
+        "Rundi": "Omani"
+    },
+    {
+        "ENG": "Namibia",
+        "Rundi": "Namibiya"
+    },
+    {
+        "ENG": "Nauru",
+        "Rundi": "Nahuru"
+    },
+    {
+        "ENG": "Nepal",
+        "Rundi": "Nepale"
+    },
+    {
+        "ENG": "Netherlands",
+        "Rundi": "Ubuhorande"
+    },
+    {
+        "ENG": "Netherlands Antilles",
+        "Rundi": "Amazinga y'Abahorande"
+    },
+    {
+        "ENG": "Aruba",
+        "Rundi": "Aruba"
+    },
+    {
+        "ENG": "New Caledonia",
+        "Rundi": "Karedoniya"
+    },
+    {
+        "ENG": "Vanuatu",
+        "Rundi": "Vanuwatu"
+    },
+    {
+        "ENG": "New Zealand",
+        "Rundi": "Ubuzerande"
+    },
+    {
+        "ENG": "Nicaragua",
+        "Rundi": "Nikaragwa"
+    },
+    {
+        "ENG": "Niger",
+        "Rundi": "Nijere"
+    },
+    {
+        "ENG": "Nigeria",
+        "Rundi": "Nijeriya"
+    },
+    {
+        "ENG": "Niue",
+        "Rundi": "Niweya"
+    },
+    {
+        "ENG": "Norfolk Island",
+        "Rundi": "Amazinga y'abanofo"
+    },
+    {
+        "ENG": "Norway",
+        "Rundi": "Noroveje"
+    },
+    {
+        "ENG": "Northern Mariana Islands",
+        "Rundi": "Amazinga ya Mariyana"
+    },
+    {
+        "ENG": "United States Minor Outlying Islands",
+        "Rundi": "Amazinga nyamerika"
+    },
+    {
+        "ENG": "Federated States of Micronesia",
+        "Rundi": "Mikoroneziya"
+    },
+    {
+        "ENG": "Marshall Islands",
+        "Rundi": "Amazinga ya marishare"
+    },
+    {
+        "ENG": "Palau",
+        "Rundi": "Parawu"
+    },
+    {
+        "ENG": "Pakistan",
+        "Rundi": "Pakisitani"
+    },
+    {
+        "ENG": "Panama",
+        "Rundi": "Panama"
+    },
+    {
+        "ENG": "Papua New Guinea",
+        "Rundi": "Ubupapuwa"
+    },
+    {
+        "ENG": "Paraguay",
+        "Rundi": "Paragweya"
+    },
+    {
+        "ENG": "Peru",
+        "Rundi": "Paru"
+    },
+    {
+        "ENG": "Philippines",
+        "Rundi": "Ubufilipi"
+    },
+    {
+        "ENG": "Pitcairn",
+        "Rundi": "Ubupitikari"
+    },
+    {
+        "ENG": "Poland",
+        "Rundi": "Ubuporandi"
+    },
+    {
+        "ENG": "Portugal",
+        "Rundi": "Porutigali"
+    },
+    {
+        "ENG": "Guinea-Bissau",
+        "Rundi": "Ginebisawu"
+    },
+    {
+        "ENG": "Timor-Leste",
+        "Rundi": "Ubutimoro"
+    },
+    {
+        "ENG": "Puerto Rico",
+        "Rundi": "Porotoriko"
+    },
+    {
+        "ENG": "Qatar",
+        "Rundi": "Katari"
+    },
+    {
+        "ENG": "RÃ©union",
+        "Rundi": "Amazinga bunama"
+    },
+    {
+        "ENG": "Romania",
+        "Rundi": "Rumaniya"
+    },
+    {
+        "ENG": "Russian Federation",
+        "Rundi": "Uburusiya"
+    },
+    {
+        "ENG": "Rwanda",
+        "Rundi": "Urwanda"
+    },
+    {
+        "ENG": "Saint Helena",
+        "Rundi": "Umweranda"
+    },
+    {
+        "ENG": "Saint Kitts and Nevis",
+        "Rundi": "Ubukitinevo"
+    },
+    {
+        "ENG": "Anguilla",
+        "Rundi": "Angwiya"
+    },
+    {
+        "ENG": "Saint Lucia",
+        "Rundi": "Uburusiyana"
+    },
+    {
+        "ENG": "Saint-Pierre and Miquelon",
+        "Rundi": "Mikero"
+    },
+    {
+        "ENG": "Saint Vincent and the Grenadines",
+        "Rundi": "Ubuvisenti"
+    },
+    {
+        "ENG": "San Marino",
+        "Rundi": "SaniMarino"
+    },
+    {
+        "ENG": "Sao Tome and Principe",
+        "Rundi": "Sawo Tome na Prencipe"
+    },
+    {
+        "ENG": "Saudi Arabia",
+        "Rundi": "Arabiya sawudite"
+    },
+    {
+        "ENG": "Senegal",
+        "Rundi": "Senegali"
+    },
+    {
+        "ENG": "Seychelles",
+        "Rundi": "Seyishere"
+    },
+    {
+        "ENG": "Sierra Leone",
+        "Rundi": "Sieralewoni"
+    },
+    {
+        "ENG": "Singapore",
+        "Rundi": "Singapuru"
+    },
+    {
+        "ENG": "Slovakia",
+        "Rundi": "Surovakiya"
+    },
+    {
+        "ENG": "Vietnam",
+        "Rundi": "Viyetenamu"
+    },
+    {
+        "ENG": "Slovenia",
+        "Rundi": "Suroveniya"
+    },
+    {
+        "ENG": "Somalia",
+        "Rundi": "Somaliya"
+    },
+    {
+        "ENG": "South Africa",
+        "Rundi": "Afirika y'epfo"
+    },
+    {
+        "ENG": "Zimbabwe",
+        "Rundi": "Zimbabwe"
+    },
+    {
+        "ENG": "Spain",
+        "Rundi": "Ubusupanye"
+    },
+    {
+        "ENG": "Western Sahara",
+        "Rundi": "Sahara y'ubuseruko"
+    },
+    {
+        "ENG": "Sudan",
+        "Rundi": "Sudani"
+    },
+    {
+        "ENG": "South Sudan",
+        "Rundi": "Sudani y'ubumanuko"
+    },
+    {
+        "ENG": "Suriname",
+        "Rundi": "Suriname"
+    },
+    {
+        "ENG": "Svalbard and Jan Mayen",
+        "Rundi": "Mayeni"
+    },
+    {
+        "ENG": "Swaziland",
+        "Rundi": "Swazilande"
+    },
+    {
+        "ENG": "Sweden",
+        "Rundi": "Ubusuwede"
+    },
+    {
+        "ENG": "Switzerland",
+        "Rundi": "Ubusuwisi"
+    },
+    {
+        "ENG": "Syrian Arab Republic",
+        "Rundi": "Siriya"
+    },
+    {
+        "ENG": "Tajikistan",
+        "Rundi": "Tajikisitani"
+    },
+    {
+        "ENG": "Thailand",
+        "Rundi": "Tayilande"
+    },
+    {
+        "ENG": "Togo",
+        "Rundi": "Togo"
+    },
+    {
+        "ENG": "Tokelau",
+        "Rundi": "Tokelo"
+    },
+    {
+        "ENG": "Tonga",
+        "Rundi": "Tonga"
+    },
+    {
+        "ENG": "Trinidad and Tobago",
+        "Rundi": "Trinidadi na Tobago"
+    },
+    {
+        "ENG": "United Arab Emirates",
+        "Rundi": "Emirate yunze y'Abarabu"
+    },
+    {
+        "ENG": "Tunisia",
+        "Rundi": "Tiniziya"
+    },
+    {
+        "ENG": "Turkey",
+        "Rundi": "Tirikiya"
+    },
+    {
+        "ENG": "Turkmenistan",
+        "Rundi": "Tukumenisitani"
+    },
+    {
+        "ENG": "Turks and Caicos Islands",
+        "Rundi": "Amazinga ya koyikosi"
+    },
+    {
+        "ENG": "Tuvalu",
+        "Rundi": "Tuvalu"
+    },
+    {
+        "ENG": "Uganda",
+        "Rundi": "Ubuganda"
+    },
+    {
+        "ENG": "Ukraine",
+        "Rundi": "Ubukereni"
+    },
+    {
+        "ENG": "The Former Yugoslav Republic of Macedonia",
+        "Rundi": "Icahoze ari Yugosaraviya"
+    },
+    {
+        "ENG": "Egypt",
+        "Rundi": "Misiri"
+    },
+    {
+        "ENG": "United Kingdom",
+        "Rundi": "Ubwongereza"
+    },
+    {
+        "ENG": "Isle of Man",
+        "Rundi": "Izinga rya Mana"
+    },
+    {
+        "ENG": "United Republic Of Tanzania",
+        "Rundi": "Tanzaniya"
+    },
+    {
+        "ENG": "United States",
+        "Rundi": "Leta zunze Ubumwe za Amerika"
+    },
+    {
+        "ENG": "U.S. Virgin Islands",
+        "Rundi": "Amazinga busugi"
+    },
+    {
+        "ENG": "Burkina Faso",
+        "Rundi": "Burukina Faso"
+    },
+    {
+        "ENG": "Uruguay",
+        "Rundi": "Urugwe"
+    },
+    {
+        "ENG": "Uzbekistan",
+        "Rundi": "Ubuzubekisitani"
+    },
+    {
+        "ENG": "Venezuela",
+        "Rundi": "Venezuwela"
+    },
+    {
+        "ENG": "Wallis and Futuna",
+        "Rundi": "Walisi na Futuna"
+    },
+    {
+        "ENG": "Samoa",
+        "Rundi": "Ubusamowa"
+    },
+    {
+        "ENG": "Yemen",
+        "Rundi": "Yemeni"
+    },
+    {
+        "ENG": "Serbia and Montenegro",
+        "Rundi": "Serebiya na Montenegoro"
+    },
+    {
+        "ENG": "Zambia",
+        "Rundi": "Zambiya"
+    }
+]
